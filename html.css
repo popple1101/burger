@@ -1,0 +1,21 @@
+body {
+    padding: 0 50px;
+    background-color: rgb(168, 233, 168);
+}
+
+
+h1,h2{
+    border-bottom: 2px solid #ddd;
+}
+img {
+    height: 40px;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #000000;
+}
+section {
+    margin: 10px;
+}
